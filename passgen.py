@@ -1,10 +1,9 @@
-#!/usr/bin/env python3
 import random
 import string
 import argparse
 import sys
 
-# Цвета для терминала
+
 class C:
     GREEN = '\033[92m'
     YELLOW = '\033[93m'
